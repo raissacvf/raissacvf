@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Raissa Castro
+# 👩🏻‍💻 Raissa de Castro Vieira Ferreira
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web;Apaixonada+por+Tecnologia+%F0%9F%92%BB" />
