@@ -18,7 +18,7 @@ Sou apaixonada por tecnologia e estou sempre buscando evoluir, aprender novas fe
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-<a href="Raissacvf" target="_blank">
+<a href="https://www.linkedin.com/in/raissacvf/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:raissacvf@outlook.com">
@@ -33,16 +33,6 @@ Sou apaixonada por tecnologia e estou sempre buscando evoluir, aprender novas fe
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github" />
 </p>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/raissacvf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissacvf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissacvf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
