@@ -45,9 +45,9 @@ Acredito que cada linha de código é uma oportunidade de criar, evoluir e const
 
 <div align="center">
 
-*“Grandes coisas também começam com pequenos passos.”* ♡
+*“Grandes coisas também começam com pequenos passos.”* 
 
-**Obrigada por visitar meu cantinho!**
+**Vamos nos conectar!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,100:E1BEE7&height=100&section=footer" width="100%" />
 
