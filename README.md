@@ -1,41 +1,63 @@
-# 👩🏻‍💻 Raissa de Castro Vieira Ferreira
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web;Apaixonada+por+Tecnologia+%F0%9F%92%BB" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:E1BEE7&height=180&section=header&text=Hello,%20world!&fontSize=42&fontColor=5C4055&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20♡&descAlignY=58&descSize=14" width="100%" />
 
-## 🤖 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=900&color=E88EAF&center=true&vCenter=true&width=500&lines=developer+in+progress+%E2%9C%A7;turning+ideas+into+reality+%E2%99%A1;learning%2C+building+and+growing" alt="Typing SVG" />
 
-Me chamo **Raissa de Castro**, tenho 20 anos e sou estudante de **Engenharia de Software**.
+<br/>
 
-Atualmente meu foco está em **Desenvolvimento Web**, criando aplicações modernas, organizadas e responsivas.  
-Sou apaixonada por tecnologia e estou sempre buscando evoluir, aprender novas ferramentas e transformar ideias em soluções reais através do código 🚀
+*୨୧ creating, learning & dreaming in code*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-25212A?style=flat-square&logo=github&logoColor=F8BBD0)](https://github.com/SEU-USUARIO)
+[![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=E8A0BF&style=flat-square&label=profile+visits)](https://github.com/SEU-USUARIO)
 
-## 🌐 Conecte-se comigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/raissacvf/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:raissacvf@outlook.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
+### ♡ a little about me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github" />
-</p>
+```js
+const raissa = {
+  interests: ["technology", "creativity", "new ideas"],
+  mindset: "always learning",
+  goal: "turn ideas into meaningful projects",
+  motto: "little steps, big dreams ♡"
+};
+```
+
+### ✧ things I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cs,git,github,vscode&theme=light" />
+
+</div>
+
+### 🎀 currently in my learning era
+
+- ♡ Exploring new technologies
+- ♡ Building projects and experimenting with ideas
+- ♡ Improving my skills, one commit at a time
+
+### ⋆˚࿔ a little progress corner
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=D77FA1&icon_color=DF9BB7&text_color=66515D&border_radius=16" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=D77FA1&text_color=66515D&border_radius=16" />
+
+</div>
 
 ---
 
-## 🚀 Objetivo
+<div align="center">
 
-Crescer na área de desenvolvimento web, contribuir para projetos inovadores e me tornar uma desenvolvedora cada vez mais completa, unindo técnica, criatividade e propósito 💜
+*“She believed she could, so she coded.”* ♡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,100:E1BEE7&height=100&section=footer" width="100%" />
+
+</div>
+
