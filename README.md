@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:E1BEE7&height=180&section=header&text=Ol%C3%A1%2C%20eu%20sou%20a%20Ra%C3%ADssa!&fontSize=40&fontColor=5C4055&fontAlignY=38&desc=desenvolvedora%20em%20forma%C3%A7%C3%A3o%20%E2%99%A1&descAlignY=58&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:E1BEE7&height=180&section=header&text=Ol%C3%A1%2C%20eu%20sou%20a%20Ra%C3%ADssa!&fontSize=40&fontColor=5C4055&fontAlignY=38&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%E2%99%A1&descAlignY=58&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=900&color=E88EAF&center=true&vCenter=true&width=520&lines=Criando+projetos+em+Java+%E2%9C%A7;Dando+vida+a+interfaces+com+HTML%2C+CSS+e+JS;Evoluindo+um+commit+de+cada+vez+%E2%99%A1)](https://github.com/raissacvf)
 
