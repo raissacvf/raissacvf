@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:E1BEE7&height=180&section=header&text=Ol%C3%A1,%20mundo!&fontSize=42&fontColor=5C4055&fontAlignY=38&desc=seja%20bem-vindo(a)%20ao%20meu%20cantinho%20da%20tech%20%E2%99%A1&descAlignY=58&descSize=14" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=900&color=E88EAF&center=true&vCenter=true&width=500&lines=desenvolvedora+em+constante+evolu%C3%A7%C3%A3o+%E2%9C%A7;transformando+ideias+em+realidade+%E2%99%A1;aprendendo%2C+criando+e+crescendo" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=900&color=E88EAF&center=true&vCenter=true&width=500&lines=Dev+em+constante+evolu%C3%A7%C3%A3o+%E2%9C%A7;transformando+ideias+em+realidade+%E2%99%A1;aprendendo%2C+criando+e+crescendo" alt="Texto animado" />
 
 *criando, aprendendo e sonhando através do código*
 
