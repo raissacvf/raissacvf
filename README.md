@@ -37,13 +37,7 @@ Acredito que cada linha de código é uma oportunidade de criar, evoluir e const
 -  Aprimorando minhas habilidades, um commit de cada vez.
 -  Transformando pequenos passos em grandes conquistas.
 
-### ⋆˚࿔ meu progresso na programação
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=D77FA1&icon_color=DF9BB7&text_color=66515D&border_radius=16&locale=pt-br" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=D77FA1&text_color=66515D&border_radius=16&locale=pt-br" />
 
 </div>
 
